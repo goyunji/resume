@@ -1,5 +1,3 @@
-# resume
-
 
 ## Resume
 #### TOC
