@@ -1,5 +1,22 @@
 
 ## Resume
+
+
+
+노션에 일단 정리중
+
+
+in notion : https://www.notion.so/yunjigo/Storytelling-resume-05a4be30603b4d1a949d9a6d904c2076
+
+
+
+
+
+=========================================옛날에 쓴거=======================================
+
+
+
+
 #### TOC
 1. [History](#history)
 2. [Project](#project)
